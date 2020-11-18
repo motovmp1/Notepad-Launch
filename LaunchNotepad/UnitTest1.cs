@@ -15,8 +15,10 @@ namespace LaunchNotepad
 
         public void LaunchNotepadAndWriteSomething() 
         {
-            DesktopOptions options = new DesktopOptions();
-            options.ApplicationPath = (@"C:\Windows\System32\notepad.exe");
+            DesktopOptions options = new DesktopOptions
+            {
+                ApplicationPath = (@"C:\Windows\System32\notepad.exe")
+            };
 
             WiniumDriver driver = new WiniumDriver(@"C:\Users\User01\Downloads\Winium.Desktop.Driver", options);
 

@@ -1,0 +1,24 @@
+﻿C:\Users\User01\source\repos\LaunchNotepad
+caminho
+
+==========================================================
+
+
+https://github.com/motovmp1/Notepad-Launch.git
+
+caminho git
+
+
+=================================================================
+
+
+caminho vstest
+
+C:\Users\User01\source\repos\LaunchNotepad\LaunchNotepad\bin\Debug
+
+C:\Users\User01\source\repos\LaunchNotepad\LaunchNotepad\bin\Debug>dotnet vstest LaunchNotepad.dll
+
+
+C:\Users\User01\source\repos\LaunchNotepad\LaunchNotepad\bin\Debug
+
+**\LaunchNotepad.dll
