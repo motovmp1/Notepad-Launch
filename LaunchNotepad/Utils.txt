@@ -22,3 +22,6 @@ C:\Users\User01\source\repos\LaunchNotepad\LaunchNotepad\bin\Debug>dotnet vstest
 C:\Users\User01\source\repos\LaunchNotepad\LaunchNotepad\bin\Debug
 
 **\LaunchNotepad.dll
+
+https://www.youtube.com/watch?v=vTWV1x1lg6Q&list=PL4FoToI7JQJN_msOVnYgFGbyBJTUWs9cy
+
