@@ -20,7 +20,8 @@ namespace LaunchNotepad
                 ApplicationPath = (@"C:\Windows\System32\notepad.exe")
             };
 
-            WiniumDriver driver = new WiniumDriver(@"C:\Users\User01\Downloads\Winium.Desktop.Driver", options);
+            // cuidado neste ponto nao pode ser incluido o nome do arquivo do winium
+            WiniumDriver driver = new WiniumDriver(@"C:\Users\User01\Downloads", options);
 
             Thread.Sleep(2000);
             driver.FindElementByClassName("Edit").SendKeys("Eliza");

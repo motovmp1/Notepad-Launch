@@ -16,6 +16,5 @@ C:\Users\User01\source\repos\LaunchNotepad\LaunchNotepad\obj\Debug\LaunchNotepad
 C:\Users\User01\source\repos\LaunchNotepad\LaunchNotepad\obj\Debug\LaunchNotepad.dll
 C:\Users\User01\source\repos\LaunchNotepad\LaunchNotepad\obj\Debug\LaunchNotepad.pdb
 C:\Users\User01\source\repos\LaunchNotepad\LaunchNotepad\bin\Debug\nunit.framework.dll
-C:\Users\User01\source\repos\LaunchNotepad\LaunchNotepad\bin\Debug\nunit.framework.pdb
 C:\Users\User01\source\repos\LaunchNotepad\LaunchNotepad\bin\Debug\nunit.framework.xml
 C:\Users\User01\source\repos\LaunchNotepad\LaunchNotepad\obj\Debug\LaunchNotepad.csprojAssemblyReference.cache

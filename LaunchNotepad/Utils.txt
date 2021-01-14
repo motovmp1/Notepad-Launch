@@ -25,3 +25,6 @@ C:\Users\User01\source\repos\LaunchNotepad\LaunchNotepad\bin\Debug
 
 https://www.youtube.com/watch?v=vTWV1x1lg6Q&list=PL4FoToI7JQJN_msOVnYgFGbyBJTUWs9cy
 
+4 - windium deve ser executado em "C:\Users\User01\Downloads\Winium.Desktop.Driver.exe"
+
+precisa estar aberto para funcionar.
